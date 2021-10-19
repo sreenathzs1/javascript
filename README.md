@@ -39,8 +39,10 @@ Difference between ES5 and ES6.
 JavaScript arithmetic operators are addition(+), subtraction(-), multiplication(*), division(/), modulus(%), increment(++) and decrement(--).
 
 7.2 Logical Operators-> The following symbols are the common logical operators: &&(ampersand) , ||(pipe) and !(negation). && gets true only if the two operands are true. || gets true either of the operand is true. ! negates true to false, false to true.
+
 7.3 Comparison Operators-.>Boolean value is either true or false. Any comparison return a boolean either true or false. Use all the following comparison operators to compare the following values: >, < >=, <=, !=, !==,===. Which are true or which are false ?
 
 
 JavaScript Input Points in below Google Doc
+
 (https://docs.google.com/document/d/1UkIn_FBEDBeRNLYUYMkE5FV2tZbh0ajOMhMC-TdKEks/edit#)
