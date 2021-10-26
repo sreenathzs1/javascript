@@ -50,3 +50,4 @@ JavaScript Input Points in below Google Doc
 
 1.variables
 2.functions
+3.operators
