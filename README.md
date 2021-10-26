@@ -48,6 +48,11 @@ JavaScript Input Points in below Google Doc
 (https://docs.google.com/document/d/1UkIn_FBEDBeRNLYUYMkE5FV2tZbh0ajOMhMC-TdKEks/edit#)
 
 
+All (https://github.com/Asabeneh/JavaScript-for-Everyone/tree/master/scripts) for practice refference
+
+
 1.variables
 2.functions
 3.operators
+4.if if else
+5.while loop
