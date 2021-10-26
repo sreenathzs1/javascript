@@ -46,3 +46,6 @@ JavaScript arithmetic operators are addition(+), subtraction(-), multiplication(
 JavaScript Input Points in below Google Doc
 
 (https://docs.google.com/document/d/1UkIn_FBEDBeRNLYUYMkE5FV2tZbh0ajOMhMC-TdKEks/edit#)
+
+
+1.variables
