@@ -56,3 +56,4 @@ All (https://github.com/Asabeneh/JavaScript-for-Everyone/tree/master/scripts) fo
 3.operators
 4.if if else
 5.while loop
+6.arrays
